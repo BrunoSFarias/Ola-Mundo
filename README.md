@@ -1,3 +1,2 @@
-# Ola-Mundo
-basicao
-Escrevendo um texto bem básico por aqui.
+# Hello World animated
+a basic hello world text animated
