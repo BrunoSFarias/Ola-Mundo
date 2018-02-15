@@ -1,0 +1,12 @@
+@import "compass/css3";
+
+body {
+    background: #ffffff;
+}
+
+#main {
+    position: absolute;
+    top: 50%; left: 50%;
+    margin: -30px -240px;
+    width: 500px; height: 65px;
+}
